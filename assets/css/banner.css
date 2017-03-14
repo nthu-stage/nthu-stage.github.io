@@ -1,0 +1,16 @@
+#banner {
+  background-color: #3d424f;
+  color: white;
+}
+
+.banner-img {
+  overflow: hidden;
+}
+
+.banner-img img {
+  visibility: hidden;
+}
+
+.banner-img img.animated {
+  visibility: visible !important;
+}
